@@ -1,0 +1,12 @@
+Apache Spark is a unified analytics engine for large-scale data processing.
+Spark provides high-level APIs in Java, Scala, Python and R, and an optimized engine that supports general computation graphs for data analysis.
+It also supports a rich set of higher-level tools including Spark SQL for SQL and DataFrames, MLlib for machine learning, GraphX for graph processing, and Spark Streaming for stream processing.
+
+PySpark is the Python API for Apache Spark.
+It enables Python developers to write Apache Spark applications using Python APIs.
+PySpark supports all of Spark's features such as Spark SQL, DataFrames, Structured Streaming, Machine Learning (MLlib) and Spark Core.
+
+WordCount is a classic example in big data processing.
+WordCount counts the number of occurrences of each word in a text file.
+This is often the first program that people write when learning Apache Spark or Hadoop MapReduce.
+The WordCount program demonstrates the power of distributed computing for processing large datasets. 

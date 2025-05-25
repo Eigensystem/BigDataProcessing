@@ -1,0 +1,8 @@
+Distributed computing with Apache Hadoop
+Processing big data efficiently and reliably
+Hadoop Distributed File System (HDFS) stores data
+MapReduce framework processes data in parallel
+Yet Another Resource Negotiator (YARN) manages cluster resources
+Hadoop ecosystem includes Hive, Pig, HBase, and more tools
+Data scientists use Hadoop for big data analytics
+Scalable and fault-tolerant distributed computing platform 

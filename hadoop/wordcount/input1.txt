@@ -1,0 +1,8 @@
+Hello World Bye World
+Hello Hadoop Goodbye Hadoop
+The quick brown fox jumps over the lazy dog
+Apache Hadoop is a framework for distributed storage and processing
+MapReduce is a programming model for processing large data sets
+WordCount is a classic example of MapReduce programming
+Big Data Analytics with Hadoop and Spark
+Machine Learning algorithms can process massive datasets efficiently 

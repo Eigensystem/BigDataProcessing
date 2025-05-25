@@ -1,0 +1,12 @@
+Big data refers to extremely large datasets that may be analyzed computationally to reveal patterns, trends, and associations.
+The three main characteristics of big data are often described as the three Vs: Volume, Velocity, and Variety.
+
+Volume refers to the sheer amount of data being generated every second.
+Velocity refers to the speed at which new data is being generated and the pace at which data moves around.
+Variety refers to the different types of data we can now use: structured and unstructured data such as text, images, video, and audio.
+
+Apache Hadoop is an open-source software framework for storing data and running applications on clusters of commodity hardware.
+It provides massive storage for any kind of data, enormous processing power and the ability to handle virtually limitless concurrent tasks or jobs.
+
+MapReduce is a programming model and an associated implementation for processing and generating big data sets with a parallel, distributed algorithm on a cluster.
+The MapReduce framework consists of a single master JobTracker and one slave TaskTracker per cluster-node. 
