@@ -1,0 +1,32 @@
+# Complex directed graph with multiple SCCs
+# Component 1: A -> B -> C -> A (3-node cycle)
+A B
+B C  
+C A
+
+# Component 2: D -> E -> F -> D (3-node cycle)
+D E
+E F
+F D
+
+# Component 3: G -> H -> G (2-node cycle)
+G H
+H G
+
+# Component 4: I (self-loop)
+I I
+
+# Component 5: J -> K -> J (2-node cycle)
+J K
+K J
+
+# Component 6: L (isolated single node)
+
+# Cross-component connections (don't affect SCC structure)
+A D
+C G
+F I
+H J
+I L
+K A
+E G 

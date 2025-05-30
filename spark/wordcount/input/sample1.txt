@@ -4,7 +4,7 @@ It also supports a rich set of higher-level tools including Spark SQL for SQL an
 
 PySpark is the Python API for Apache Spark.
 It enables Python developers to write Apache Spark applications using Python APIs.
-PySpark supports all of Spark's features such as Spark SQL, DataFrames, Structured Streaming, Machine Learning (MLlib) and Spark Core.
+PySpark supports all of Sparks features such as Spark SQL, DataFrames, Structured Streaming, Machine Learning (MLlib) and Spark Core.
 
 WordCount is a classic example in big data processing.
 WordCount counts the number of occurrences of each word in a text file.

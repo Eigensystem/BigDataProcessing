@@ -1,0 +1,8 @@
+A WebServer
+B Database  
+C Cache
+D LoadBalancer
+E BackupServer
+F Logger
+G Monitor
+H Gateway 

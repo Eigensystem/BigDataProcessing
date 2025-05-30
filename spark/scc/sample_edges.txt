@@ -1,0 +1,22 @@
+# Directed edges forming strongly connected components
+# Component 1: A -> B -> C -> A (3-node cycle)
+A B
+B C
+C A
+
+# Component 2: D -> E -> D (2-node cycle)
+D E
+E D
+
+# Component 3: F (single node, self-loop)
+F F
+
+# Isolated connections between components
+A D
+C F
+E G
+G H
+
+# Additional edges within components
+B A
+E F 

@@ -1,0 +1,12 @@
+A Server1
+B Server2
+C Database
+D Cache
+E LoadBalancer
+F BackupSystem
+G Monitor
+H Gateway
+I FireWall
+J Logger
+K Storage
+L Proxy 
